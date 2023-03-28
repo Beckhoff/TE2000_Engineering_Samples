@@ -329,6 +329,9 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
+# NPM
+package-lock.json
+
 # TwinCAT HMI
 .engineering_servers
 
